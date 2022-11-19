@@ -2,7 +2,8 @@ Nov 19, 2022 11:21:31 AM	 	 106A - Card Game	 GNU C++0x	Accepted	 62 ms	 0 KB
 
 #include <cstdio>
 using namespace std;
-int rank(char c){
+int rank(char c)
+{
     const char* order = "6789TJQKA";
     char* find = const_cast<char*>(order);
     while (*find != c)
