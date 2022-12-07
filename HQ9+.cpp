@@ -1,4 +1,4 @@
-//4007157   Jul 3, 2013 7:19:37 PM	fuwutu	 133A - HQ9+	 GNU C++0x	Accepted	15 ms	0 KB
+//  Dec 7, 2022 7:30:37 PM		 133A - HQ9+	 GNU C++0x	Accepted	15 ms	0 KB
 #include <iostream>
 #include <string>
 
