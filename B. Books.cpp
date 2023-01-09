@@ -1,7 +1,6 @@
 /* 	 Dec 29, 2022 10:00:22 PM		 B. Books	 GNU C++	Accepted	30 ms	200 KB */
 
 #include <cstdio>
- 
 int main()
 {
     int n, t, a[100000];
